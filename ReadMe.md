@@ -1,15 +1,15 @@
 #Wisdom and mental/somatic experience
 
-##Define the problem
+##Scientific Questions
 Is there an association between experience with certain mental and somatic practices and  
 wisdom?
 
-##Define the dataset
+##Dataset
 **Dependent Variables**: Wisdom Total, Cognitive, Affective, and Reflective  
 **Primary predictor variables**: Practice type, Years of experience, total hours of experience  
 **Mediating variables**: Cognitive and affective empathy, trait anxiety, mindfulness
 
-##Determine what data can be accessed
+##Data collection and sources
 Data for *meditators* taken from meditation centers across the U.S.  
 Data for *ballet dancers* taken from dance centers and listservs across the U.S.  
 Data for *Alexander Technique* taken from teachers and students across the U.S. through  
@@ -17,7 +17,6 @@ listservs, mailing lists, and advertisements in AT material
 Data for *Feldenkrais Method* taken from website devoted to the practice, as well as email and  
 listservs  
 
-##obtain data
 Data obtained from SurveyMonkey across 10 collectors  
 **Bolded items** are questionnaires used in the final survey analysis to date
 
